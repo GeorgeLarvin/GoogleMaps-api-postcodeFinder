@@ -1,0 +1,30 @@
+body{
+	background: url(background-image2.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.center{
+	text-align:center;
+	margin-top:250px;
+}
+
+#address{
+	width:400px;
+	margin:0 auto;
+}
+
+h1{
+	color:white;
+}
+
+small{
+	color:white;
+	
+}
+
+#submit{
+	margin:15px;
+}
